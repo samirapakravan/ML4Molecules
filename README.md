@@ -1,5 +1,7 @@
 # Computer Aided Drug Design (CADD) Project
 
+![Screenshot](mol.png)
+
 This repository contains my explorations in computational drug discovery!
 
 - Bioinformatics excercise to search for drug-like molecules following the rule-of-five
